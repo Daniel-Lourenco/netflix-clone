@@ -15,5 +15,12 @@ O objetivo do projeto foi recriar uma interface do projeto do Netfliz utilizando
 - Owl Carousel
 - Google Fonts
 
+## Autor
+Linkedin: 
+https://www.linkedin.com/in/daniel-lourenco19/
+
+email:
+daniel.lorenco@hotmail.com
+
 
 
