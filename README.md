@@ -5,5 +5,15 @@ O objetivo do projeto foi recriar uma interface do projeto do Netfliz utilizando
 
 ![Imagem do Projeto](https://user-images.githubusercontent.com/67913073/160657042-c6034188-c23c-416f-8120-01e0011f7a41.png)
 
+## Tecnologias utilizadas
+
+- HTML
+- CSS
+- JavaScript
+- JQuery
+- FontAwesome
+- Owl Carousel
+- Google Fonts
+
 
 
